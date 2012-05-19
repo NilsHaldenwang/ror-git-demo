@@ -1,4 +1,4 @@
 Cool Heading
 ============
-* very, very cool feature of my app
+* very, very cool feature
 * another cool feature
