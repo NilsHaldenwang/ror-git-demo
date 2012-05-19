@@ -1,4 +1,4 @@
-ror-git-demo
+Cool Heading
 ============
 * cool feature of my app
 * another cool feature
